@@ -10,11 +10,12 @@ title: Arik.fm
 
 
 ---
+
  <audio controls>
-   <source src="/assets/neverlosemeremix2-001.wav" type="audio/mpeg">
+   <source src="/assets/finished.mp3" type="audio/mpeg">
    Your browser does not support the audio element.
  </audio>
- <audio controls>
+  <audio controls>
    <source src="/assets/finished.mp3" type="audio/mpeg">
    Your browser does not support the audio element.
  </audio>
