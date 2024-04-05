@@ -15,7 +15,3 @@ title: Arik.fm
    <source src="/assets/finished.mp3" type="audio/mpeg">
    Your browser does not support the audio element.
  </audio>
-  <audio controls>
-   <source src="/assets/sandra.mp3" type="audio/mpeg">
-   Your browser does not support the audio element.
- </audio>
